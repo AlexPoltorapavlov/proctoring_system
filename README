@@ -6,3 +6,5 @@ face_recognition 1.3.0
 
 Чтобы запустить сервер, необходимо ввести эту команду:
 uvicorn main:app --reload
+
+Стрим находится по адресу: http://127.0.0.1:8000/video_stream
